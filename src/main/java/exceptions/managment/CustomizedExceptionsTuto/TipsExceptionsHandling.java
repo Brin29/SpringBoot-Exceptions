@@ -1,10 +1,10 @@
-package exceptions.managment;
+package exceptions.managment.CustomizedExceptionsTuto;
 
 import org.springframework.util.ObjectUtils;
 
 public class TipsExceptionsHandling {
 
-    public void ExceptionHandling() throws CustomizedExceptions{
+    public void ExceptionHandling() throws CustomizedExceptions {
         if (ObjectUtils.isEmpty(0)){
             throw new CustomizedExceptions("The args parameter is empty",
                     new ExceptionsDetails("Ha ocurrido un error inesperado", "error"));

@@ -1,4 +1,4 @@
-package exceptions.managment;
+package exceptions.managment.CustomizedExceptionsTuto;
 
 // Detalles de la excepcion
 public class ExceptionsDetails {

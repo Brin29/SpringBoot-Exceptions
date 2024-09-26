@@ -1,4 +1,4 @@
-package exceptions.managment;
+package exceptions.managment.CustomizedExceptionsTuto;
 
 // Excepciones personalizadas
 // Checked exceptions

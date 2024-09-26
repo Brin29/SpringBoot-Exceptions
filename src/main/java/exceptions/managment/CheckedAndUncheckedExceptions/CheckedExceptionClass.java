@@ -1,4 +1,4 @@
-package exceptions.managment;
+package exceptions.managment.CheckedAndUncheckedExceptions;
 
 import java.io.File;
 import java.io.FileInputStream;
